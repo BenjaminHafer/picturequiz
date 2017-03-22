@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ben_hafer_midterm</string>
+    <string name="newword">Get a new word</string>
+    <string name="check">Check Spelling</string>
+    <string name="message2">Correct Spelling:</string>
+    <string name="message1">The Letters: </string>
+</resources>
